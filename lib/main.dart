@@ -5,6 +5,7 @@ import 'dart:convert';
 
 const request = "https://api.hgbrasil.com/finance";
 
+
 void main() async{
 
   runApp(MaterialApp(
