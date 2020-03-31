@@ -6,4 +6,7 @@ Conversor de moedas em flutter:
 - Euro
 - Peso Argentino
 
-![](imageApp.jpeg)
+### IMAGEM APP
+
+<img src="imageApp.jpeg" width="400">
+
