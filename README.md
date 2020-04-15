@@ -8,5 +8,7 @@ Conversor de moedas em flutter:
 
 ### IMAGEM APP
 
+Tela inicial app:
+
 <img src="imageApp.jpeg" width="400">
 
